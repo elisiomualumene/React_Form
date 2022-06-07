@@ -8,7 +8,7 @@ import {
 
 import { useForm } from 'react-hook-form'
 import { yupResolver } from '@hookform/resolvers/yup'
-import { validateSchema } from './types'
+import { validateSchema } from './Validation'
 
 import Input2 from './Components/Inputs'
 
